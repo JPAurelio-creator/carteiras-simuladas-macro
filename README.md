@@ -1,6 +1,6 @@
 # Carteiras simuladas de alocação macro
 
-Projeto de João Pedro Vieira Meirelles Aurélio, estudante de Economia na PUC-Rio.
+Projeto de João Pedro Aurélio, estudante de Economia na PUC-Rio.
 
 Duas carteiras simuladas condicionadas a cenários fiscais opostos para o Brasil a partir de 2027, e uma terceira carteira que combina as duas pelas probabilidades que eu declaro. As decisões são registradas aqui antes de valerem, com data verificável, e nada é apagado.
 
@@ -31,12 +31,15 @@ A IA coleta dados, redige análises e propõe pesos. As regras escritas limitam 
 ## Como reproduzir os números
 
 ```
-pip install pandas numpy openpyxl xlrd
+pip install pandas numpy openpyxl xlrd markdown playwright
 python codigo/preparar_dados.py
 python codigo/estudo_eventos.py
 python codigo/propor_pesos.py
 python codigo/calcular_cotas.py
+python codigo/gerar_pdfs.py AAAA-MM
 ```
+
+O último comando gera, para o mês indicado, um PDF da tese vigente e um PDF com a tabela da carteira vigente.
 
 ## O que este projeto prova e o que não prova
 

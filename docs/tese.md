@@ -1,6 +1,6 @@
 # Tese dos cenários fiscais
 
-Versão para a decisão D001, registrada antes do primeiro turno de 04/10/2026. Autor, João Pedro Vieira Meirelles Aurélio. As análises foram redigidas com apoio de IA e revisadas e decididas por mim.
+Versão para a decisão D001, registrada antes do primeiro turno de 04/10/2026. Autor, João Pedro Aurélio. As análises foram redigidas com apoio de IA e revisadas e decididas por mim.
 
 Conteúdo educacional. Carteira simulada, sem dinheiro real aplicado. Não é recomendação de investimento.
 
