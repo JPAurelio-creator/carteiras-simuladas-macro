@@ -1,0 +1,80 @@
+{
+  "janela": [
+    "2025-09-25",
+    "2026-09-25"
+  ],
+  "n_dias": 252,
+  "vol_anual_ativos_pct": {
+    "CDI": 0.02,
+    "IRFM": 3.84,
+    "IMAB": 4.68,
+    "IBOV": 17.46,
+    "DOLAR": 9.56,
+    "SP500_BRL": 12.71
+  },
+  "vol_alvo_pct": 4.09,
+  "carteiras": {
+    "consolidacao": {
+      "pesos_pct": {
+        "CDI": 35.0,
+        "IRFM": 40.0,
+        "IMAB": 35.0,
+        "IBOV": 5.0,
+        "DOLAR": -15.0,
+        "SP500_BRL": 0.0
+      },
+      "pesos_continuos_pct": {
+        "IRFM": 40.0,
+        "IMAB": 34.2,
+        "IBOV": 4.6,
+        "DOLAR": -16.7,
+        "SP500_BRL": 0.0
+      },
+      "vol_pct": 4.44,
+      "exposicao_bruta_pct": 95.0
+    },
+    "expansao": {
+      "pesos_pct": {
+        "CDI": 110.0,
+        "IRFM": -20.0,
+        "IMAB": -20.0,
+        "IBOV": -5.0,
+        "DOLAR": 25.0,
+        "SP500_BRL": 10.0
+      },
+      "pesos_continuos_pct": {
+        "IRFM": -20.0,
+        "IMAB": -20.0,
+        "IBOV": -6.3,
+        "DOLAR": 23.0,
+        "SP500_BRL": 8.7
+      },
+      "vol_pct": 4.37,
+      "exposicao_bruta_pct": 80.0
+    },
+    "combinada": {
+      "probabilidade_consolidacao": 0.314,
+      "pesos_pct": {
+        "CDI": 86.45,
+        "IRFM": -1.16,
+        "IMAB": -2.73,
+        "IBOV": -1.86,
+        "DOLAR": 12.44,
+        "SP500_BRL": 6.86
+      },
+      "vol_pct": 1.89,
+      "exposicao_bruta_pct": 25.05
+    },
+    "referencia": {
+      "pesos_pct": {
+        "CDI": 40.0,
+        "IRFM": 15.0,
+        "IMAB": 15.0,
+        "IBOV": 15.0,
+        "DOLAR": 0,
+        "SP500_BRL": 15.0
+      },
+      "vol_pct": 4.09
+    }
+  }
+}

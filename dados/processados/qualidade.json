@@ -1,0 +1,14 @@
+{
+  "periodo": [
+    "2020-01-03",
+    "2026-09-25"
+  ],
+  "dias_uteis": 1690,
+  "dias_sem_cotacao_no_calendario_do_CDI": {
+    "IRFM": 0,
+    "IMAB": 0,
+    "IBOV": 12,
+    "PTAX": 0
+  },
+  "sp500_incluido": true
+}
