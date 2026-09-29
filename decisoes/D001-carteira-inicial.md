@@ -1,7 +1,7 @@
 # D001. Carteira inicial
 
-**Status.** Proposta, aguardando assinatura.
-**Registro.** Preencher com a data e a hora do commit.
+**Status.** Assinada.
+**Registro.** 14:29, 29-09-2026.
 **Vigência.** Fechamento de 02/10/2026, antes do primeiro turno de 04/10/2026.
 **Autor.** João Pedro Vieira Meirelles Aurélio.
 
