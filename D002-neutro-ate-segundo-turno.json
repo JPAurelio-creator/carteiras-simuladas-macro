@@ -1,0 +1,18 @@
+{
+  "id": "D002",
+  "status": "proposta",
+  "descricao": "Carteiras neutras (100% CDI) até o resultado do segundo turno",
+  "registrada_em": "PREENCHER NO COMMIT",
+  "vigencia": "2026-10-08",
+  "adota_emendas": ["E001"],
+  "probabilidades": {
+    "vitoria_flavio_bolsonaro": 0.90,
+    "vitoria_lula": 0.10,
+    "consolidacao_dado_flavio_bolsonaro": 0.40,
+    "consolidacao_dado_lula": 0.20
+  },
+  "p_consolidacao": 0.38,
+  "consolidacao": {"IRFM": 0, "IMAB": 0, "IBOV": 0, "DOLAR": 0, "SP500_BRL": 0},
+  "expansao": {"IRFM": 0, "IMAB": 0, "IBOV": 0, "DOLAR": 0, "SP500_BRL": 0},
+  "observacoes": "Pesos em % do patrimônio. O CDI completa 100%. Vale até a primeira decisão depois do resultado do segundo turno."
+}
