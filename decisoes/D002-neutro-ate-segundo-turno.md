@@ -1,7 +1,7 @@
 # D002. Carteiras neutras até o segundo turno
 
-**Status.** Proposta, aguardando assinatura.
-**Registro.** Preencher com a data e a hora do commit.
+**Status.** Assinada.
+**Registro.** 11:05, 07-10-2026.
 **Vigência.** Fechamento de 08/10/2026.
 **Autor.** João Pedro Aurélio.
 **Base nas regras.** Gatilho 7.1 (resultado do primeiro turno), revisão de probabilidade pela regra 4.3.4 e exceção de volatilidade da regra 5.6. Adota a emenda E001.
