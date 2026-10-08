@@ -1,8 +1,8 @@
 {
   "id": "D002",
-  "status": "proposta",
+  "status": "assinada",
   "descricao": "Carteiras neutras (100% CDI) até o resultado do segundo turno",
-  "registrada_em": "PREENCHER NO COMMIT",
+  "registrada_em": "07-10-2026",
   "vigencia": "2026-10-08",
   "adota_emendas": ["E001"],
   "probabilidades": {
